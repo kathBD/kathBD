@@ -1,14 +1,11 @@
 ### Hola, soy Katherine Bonilla👋
 
+## ✨ _Desarrolladora web full Stack_ ✨ 
 
-✨ _Desarrolladora web full Stack_ ✨ 
-
-:rocket::green_heart:  I’m currently learning ![3ech](https://camo.githubusercontent.com/47380987ecfc7e15bb287529fe03a2c63273ad597edcc85352b02cbb942863e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67 ) ![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
-
+###  🚀:green_heart: Actualmente aprendiendo ![3ech](https://camo.githubusercontent.com/47380987ecfc7e15bb287529fe03a2c63273ad597edcc85352b02cbb942863e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67 )  ![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
 
 
-
-🌱 He desarrollado proyectos  con👩‍💻
+🌱 **He desarrollado proyectos  con**👩‍💻
 
 
  ![3ech](https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67 )
