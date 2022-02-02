@@ -1,4 +1,4 @@
-### Hola, soy Katherine Bonilla👋
+### 👋 Hola, soy Katherine Bonilla
 
 ## ✨ _Desarrolladora web full Stack_ ✨ 
 
