@@ -1,4 +1,5 @@
-### _👋 Hola, soy Katherine Bonilla_
+### _Hola, soy Katherine Bonilla_  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30">
+
 
 ## ✨ _Desarrolladora web full Stack_ ✨ 
 
