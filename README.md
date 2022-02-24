@@ -6,6 +6,7 @@
 ![3ech](https://camo.githubusercontent.com/47380987ecfc7e15bb287529fe03a2c63273ad597edcc85352b02cbb942863e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67 ) 
 ![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
    ![3ech](  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/51px-Python-logo-notext.svg.png)
+    ![3ech](https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67 )
 ### 🌱 **He desarrollado proyectos  con**👩‍💻
 
 
@@ -20,7 +21,7 @@
      ![3ech](https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67 )
       ![3ech](https://camo.githubusercontent.com/9a732bd987992bdd80776e87bf30041de02ad5e718e03873b325807207b6f57b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769746875622d2d76312e706e67)
         ![3ech](https://static.wixstatic.com/media/012557_1c89757f2a9c4a878cfde8b24cf1d997~mv2.png/v1/fit/w_51%2Ch_51%2Cal_c/file.png)
-        
+         ![3ech](  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/51px-Python-logo-notext.svg.png)
         
    ![](https://komarev.com/ghpvc/?username=kathBD&style=flat-square) :triangular_flag_on_post:
      
