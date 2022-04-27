@@ -1,6 +1,6 @@
 ### _Hola, soy Katherine Bonilla_  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30"> 
 
-[![Portafolio Badge](https://img.shields.io/badge/Portafolio-%20website-blue)](https://katherinebonilla.netlify.app/)
+
      
 ## ✨ _Desarrolladora web full Stack_ ✨ 
 
