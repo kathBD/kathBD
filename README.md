@@ -26,7 +26,7 @@
         ![3ech](https://static.wixstatic.com/media/012557_1c89757f2a9c4a878cfde8b24cf1d997~mv2.png/v1/fit/w_51%2Ch_51%2Cal_c/file.png)
          ![3ech](  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/51px-Python-logo-notext.svg.png)
         
-   ![](https://komarev.com/ghpvc/?username=kathBD&style=flat-square) :triangular_flag_on_post:
+
      
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
