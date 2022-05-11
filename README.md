@@ -2,7 +2,7 @@
 
 
      
-## ✨ _Desarrolladora web full Stack_ ✨ 
+## ✨ _Developer full Stack_ ✨ 
 
 
 ###  🚀:green_heart: Actualmente profudizando 
