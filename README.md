@@ -2,7 +2,7 @@
 
 
      
-## ✨ _Developer full Stack_ ✨ 
+## ✨ _Developer full Stack__✨ 
 
 
 ###  🚀:green_heart: Actualmente profudizando 
