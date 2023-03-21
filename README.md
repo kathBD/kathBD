@@ -36,7 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&hide=TeX&layout=compact)
+
 
 
 
