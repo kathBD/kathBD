@@ -16,14 +16,8 @@
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-### 🎓 Education
-
-<img height="32" width="32" src="https://static.platzi.com/media/users-badges/team_badge.png" /> <img height="32" width="32" src="https://pbs.twimg.com/profile_images/1612383187207946241/qJQdMrat_400x400.jpg" /> <img height="52" width="52" src="https://simplon.co/images/logo.svg" />
 
 
-
-
-  
  
 ### 🌱 **He desarrollado proyectos  con**👩‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
