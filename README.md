@@ -7,7 +7,7 @@
 ## ✨ <img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png />Developer full Stack - QA :test_tube:✨ 
 
 
-###  🚀:green_heart: Actualmente como QA 
+###  🚀:green_heart: Actualmente profundizando en el mundo QA 🔎🐞
 ![3ech](https://camo.githubusercontent.com/47380987ecfc7e15bb287529fe03a2c63273ad597edcc85352b02cbb942863e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67 ) 
 ![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
 ![3ech](https://static.wixstatic.com/media/012557_1c89757f2a9c4a878cfde8b24cf1d997~mv2.png/v1/fit/w_51%2Ch_51%2Cal_c/file.png) 
