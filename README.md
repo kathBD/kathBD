@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
 ![3ech](https://static.wixstatic.com/media/012557_1c89757f2a9c4a878cfde8b24cf1d997~mv2.png/v1/fit/w_51%2Ch_51%2Cal_c/file.png) 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
-<img height="50" width="50" src=https://www.ambient-it.net/wp-content/uploads/2018/07/cucumber-175m.png />
+
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### 💻 IDEs/Editors
