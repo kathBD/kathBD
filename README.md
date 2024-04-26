@@ -3,7 +3,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30">  <img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png />:test_tube:✨[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=2041FF00&random=false&width=435&lines=Full+Stack+Developer+-+QA)](https://git.io/typing-svg)
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30">  <img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png />:test_tube:✨[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Full+stack+Developer+and+QA.+;I+am+currently+learning+Data+Science+)](https://git.io/typing-svg)
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
