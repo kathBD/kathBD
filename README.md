@@ -1,9 +1,13 @@
+
 ![Header](https://i.ibb.co/qgRrsv3/github-header-image.png)
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30">  <img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png /> Full Stack Developer - QA :test_tube:✨ 
 
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30">  <img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png />:test_tube:✨[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=2041FF00&random=false&width=435&lines=Full+Stack+Developer+-+QA)](https://git.io/typing-svg)
 
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
+### Languages and Tools
 
 ![image](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/70px-Java_programming_language_logo.svg.png)
 ![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
@@ -14,7 +18,7 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 <img height="50" width="100" src="https://media.licdn.com/dms/image/D4D12AQGWcSInOgklkw/article-cover_image-shrink_600_2000/0/1664800435918?e=2147483647&v=beta&t=Q4otFvD0-FQtg0vWQtvVCGGg0dxaKfMKyVRlEI7GfCw"/>
 
-
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 
 ### 💻 IDEs/Editors
@@ -45,7 +49,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact)](https://github.com/kathBD/github-readme-stats)
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
+
 
 
 
