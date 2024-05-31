@@ -9,14 +9,26 @@
 
 ### Languages and Tools
 
-![image](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/70px-Java_programming_language_logo.svg.png)
-![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
-![3ech](https://static.wixstatic.com/media/012557_1c89757f2a9c4a878cfde8b24cf1d997~mv2.png/v1/fit/w_51%2Ch_51%2Cal_c/file.png) 
-<img height="40" width="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
-<img height="40" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
-<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-<img height="50" width="100" src="https://media.licdn.com/dms/image/D4D12AQGWcSInOgklkw/article-cover_image-shrink_600_2000/0/1664800435918?e=2147483647&v=beta&t=Q4otFvD0-FQtg0vWQtvVCGGg0dxaKfMKyVRlEI7GfCw"/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+ <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+### 💚 Learning: 
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Datascience" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
