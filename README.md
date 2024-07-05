@@ -1,14 +1,17 @@
-
+![1_12](https://github.com/kathBD/kathBD/assets/86696439/29bfb51f-0d84-4de5-9144-125f41dcaaa2)
+<div align="center" >
 
 <h1> Hey !<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Nice to see you. </h1>
 
 **My name is Katherine**
+![1_05](https://github.com/kathBD/kathBD/assets/86696439/6636b35f-1a56-4467-aab1-1d16cc86fdfb)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&letterSpacing=1px&duration=4990&pause=1001&color=0D0C56F7&background=FFE110F3&center=true&random=false&width=443&height=51&lines=+Developer+Full+Stack+and+QA;+I'm+currently+learning+data+science+;and+Android)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
+</div>
 ### Languages and Frameworks, Platforms and Libraries
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,13 +29,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💚 🌱 Learning: 
+### 💚 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-
-
-
 
 
 
@@ -78,11 +78,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
-![kathBD's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kathBD&theme=highcontrast&hide_border=true)
 
 
 
 
+![1_12](https://github.com/kathBD/kathBD/assets/86696439/29bfb51f-0d84-4de5-9144-125f41dcaaa2)
 
 
 
