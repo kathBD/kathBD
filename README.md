@@ -73,10 +73,13 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
 
-<br>
+<img src="https://raw.githubusercontent.com/kathBD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/kathBD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/kathBD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 
-![snake gif](https://github.com/kathBD/kathBD/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 
