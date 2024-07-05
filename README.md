@@ -1,9 +1,11 @@
 
-![Header](https://i.ibb.co/qgRrsv3/github-header-image.png)
+
+<h1> Hey !<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Nice to see you. </h1>
+
+**My name is Katherine**
 
 
-
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30">  <img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png />:test_tube:✨[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Full+stack+Developer+and+QA.+;I+am+currently+learning+Data+Science+)](https://git.io/typing-svg)
+<img height="50" width="50" src=https://user-images.githubusercontent.com/86696439/227633184-aab4e2bf-25c3-4a36-a950-d0fc5c14bead.png />:test_tube:✨[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Full+stack+Developer+and+QA.+;I+am+currently+learning+Data+Science+)](https://git.io/typing-svg)
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
@@ -24,10 +26,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💚 Learning: 
+### 💚 🌱 Learning: 
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+![Header](https://github.com/otahina/otahina/assets/108225969/3ef27656-4a61-4746-a9fa-424d4e0a361c)
+
 
 
 
