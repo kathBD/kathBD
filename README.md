@@ -73,10 +73,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kathBD/kathBD/output/github-contribution-grid-snake.svg" />
+
 
 
 
