@@ -73,6 +73,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
 
+<br>
+
+
+![snake gif](https://github.com/kathBD/kathBD/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
