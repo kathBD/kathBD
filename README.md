@@ -84,8 +84,8 @@
 
 
 
-> [!NOTE]
-> ![1_12](https://github.com/kathBD/kathBD/assets/86696439/29bfb51f-0d84-4de5-9144-125f41dcaaa2)
+
+                                                                                          ![1_12](https://github.com/kathBD/kathBD/assets/86696439/29bfb51f-0d84-4de5-9144-125f41dcaaa2)
 
 
 
