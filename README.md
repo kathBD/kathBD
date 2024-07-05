@@ -69,13 +69,17 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+
+
+
+
+
+	
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
+![kathBD's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kathBD&theme=highcontrast&hide_border=true)
 
-<img src="https://raw.githubusercontent.com/kathBD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/kathBD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/kathBD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 
 
