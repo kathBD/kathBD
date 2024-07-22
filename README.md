@@ -1,8 +1,5 @@
 
 
-
-
- ![1_12](https://github.com/kathBD/kathBD/assets/86696439/29bfb51f-0d84-4de5-9144-125f41dcaaa2)
 ![portafolio](https://github.com/user-attachments/assets/ba135704-97cf-4418-ac7d-3efb11718ecf)
 <div align="center" >
 
@@ -36,6 +33,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💚 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
+
+![bloggif_669ec84f98a6d](https://github.com/user-attachments/assets/627bf0cb-a20b-4f11-bae1-b174545ef159)
+
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
