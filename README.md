@@ -33,7 +33,7 @@
 ### 💚 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
 
 ![bloggif_669ec84f98a6d](https://github.com/user-attachments/assets/627bf0cb-a20b-4f11-bae1-b174545ef159)
-	![Data Analysis](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+	![Data Analysis](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=Data Analysis&logoColor=white)
 
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
