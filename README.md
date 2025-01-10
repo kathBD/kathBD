@@ -1,10 +1,9 @@
 
 <div align="center" >
 
-<h1> Hey !<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Nice to see you. </h1>
+<h1> Hey !<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" /> Nice to see you. </h1>
 
 **My name is Katherine**
-![1_05](https://github.com/kathBD/kathBD/assets/86696439/6636b35f-1a56-4467-aab1-1d16cc86fdfb)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&letterSpacing=1px&duration=4990&pause=1001&color=0D0C56F7&background=FFE110F3&center=true&random=false&width=443&height=51&lines=+Developer+Full+Stack+and+QA;+I'm+currently+learning+data+science+;and+Android)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -85,6 +84,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathBD&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/kathBD)
+![1_05](https://github.com/kathBD/kathBD/assets/86696439/6636b35f-1a56-4467-aab1-1d16cc86fdfb)
 
 
 
