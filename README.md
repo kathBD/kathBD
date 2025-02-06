@@ -14,14 +14,11 @@
 </div>
 
   
-
-
-
 ### Languages and Frameworks, Platforms and Libraries
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -34,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-###  <img src="https://www.rainforest-alliance.org/wp-content/uploads/2021/07/java-love.png" alt="Java Love Logo" style="width: 50px; height: auto; margin-right: 15px;"> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
+###  <img src="https://www.rainforest-alliance.org/wp-content/uploads/2021/07/java-love.png" alt="Java Love Logo" style="width: 50px; height: auto; margin-right: 30px;"> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
 
 ![bloggif_669ec84f98a6d](https://github.com/user-attachments/assets/627bf0cb-a20b-4f11-bae1-b174545ef159)
 	![Python - Data Analyst](https://img.shields.io/badge/Python-Data_Analyst-2ea44f?style=for-the-badge)
