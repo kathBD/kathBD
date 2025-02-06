@@ -6,7 +6,7 @@
 **My name is Katherine**
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&letterSpacing=1px&duration=4990&pause=1001&color=0D0C56F7&background=FFE110F3&center=true&random=false&width=443&height=51&lines=+Developer+Full+Stack+and+QA;+I'm+currently+learning+data+science)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=040217&center=true&width=1000&height=70&lines=I+am+a+Full+Stack+Developer+currently+learning+Data+Science+and+Java+Spring+Boot.)](https://git.io/typing-svg)
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
