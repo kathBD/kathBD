@@ -10,7 +10,12 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
+
 </div>
+
+  
+
+
 
 ### Languages and Frameworks, Platforms and Libraries
 
@@ -29,10 +34,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💚 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
+###  <img src="https://www.rainforest-alliance.org/wp-content/uploads/2021/07/java-love.png" alt="Java Love Logo" style="width: 50px; height: auto; margin-right: 15px;"> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" />  Learning: 
 
 ![bloggif_669ec84f98a6d](https://github.com/user-attachments/assets/627bf0cb-a20b-4f11-bae1-b174545ef159)
 	![Python - Data Analyst](https://img.shields.io/badge/Python-Data_Analyst-2ea44f?style=for-the-badge)
+ ![Java - Spring Boot](https://img.shields.io/badge/Java-Spring_Boot-007396?style=for-the-badge)
+
 
 
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
